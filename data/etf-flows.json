@@ -1,0 +1,59 @@
+{
+  "source": "farside.co.uk/btc/",
+  "unit": "USD millions",
+  "updatedAt": "2026-07-05T14:02:04.565Z",
+  "latest": {
+    "date": "2026-07-02",
+    "totalUsdM": 223.5
+  },
+  "recent": [
+    {
+      "date": "2026-06-16",
+      "totalUsdM": 10.2
+    },
+    {
+      "date": "2026-06-17",
+      "totalUsdM": -82.2
+    },
+    {
+      "date": "2026-06-18",
+      "totalUsdM": -90.7
+    },
+    {
+      "date": "2026-06-22",
+      "totalUsdM": -68.3
+    },
+    {
+      "date": "2026-06-23",
+      "totalUsdM": -113.8
+    },
+    {
+      "date": "2026-06-24",
+      "totalUsdM": -469
+    },
+    {
+      "date": "2026-06-25",
+      "totalUsdM": -691.7
+    },
+    {
+      "date": "2026-06-26",
+      "totalUsdM": -444.5
+    },
+    {
+      "date": "2026-06-29",
+      "totalUsdM": -231
+    },
+    {
+      "date": "2026-06-30",
+      "totalUsdM": -222.6
+    },
+    {
+      "date": "2026-07-01",
+      "totalUsdM": -296
+    },
+    {
+      "date": "2026-07-02",
+      "totalUsdM": 223.5
+    }
+  ]
+}
