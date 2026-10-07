@@ -1,16 +1,12 @@
 {
   "source": "farside.co.uk/btc/",
   "unit": "USD millions",
-  "updatedAt": "2026-10-06T17:19:14.922Z",
+  "updatedAt": "2026-10-07T02:33:40.271Z",
   "latest": {
     "date": "2026-10-06",
-    "totalUsdM": 0
+    "totalUsdM": -3.2
   },
   "recent": [
-    {
-      "date": "2026-09-17",
-      "totalUsdM": 159.5
-    },
     {
       "date": "2026-09-18",
       "totalUsdM": 433
@@ -61,7 +57,7 @@
     },
     {
       "date": "2026-10-06",
-      "totalUsdM": 0
+      "totalUsdM": -3.2
     }
   ]
 }
